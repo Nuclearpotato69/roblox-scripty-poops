@@ -202,7 +202,7 @@ end)
 
 -------------------------------------------------------------------- BASIC API STUFF HERE --------------------------------------------------------------------
 
-game.Players:Chat("gear me "..antilog.."18474459")
+game.Players:Chat("gear me 000000000000000000000000000000000000000000000000000000000"18474459")
 		local Backpack = game.Players.LocalPlayer:FindFirstChildOfClass("Backpack")
         game.Players.LocalPlayer.Backpack:WaitForChild("PaintBucket")
         for _, v in ipairs(Backpack:GetChildren()) do
