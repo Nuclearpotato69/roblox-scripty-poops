@@ -23,6 +23,6 @@ getgenv().doublecounter = true --if you want the account checker on or off (if o
 getgenv().gearcons = {}
 getgenv().gearbl1 = true --gear blacklist
 getgenv().nonpermban = {"BlackDelicousSoup","Yuoochi","globox7621","glxfw"} --ban will work on perm players but they can still do cmds
-getgenv().rkickonjoin = {""} -will try to rocket crash people in this table on join (needs persons299)
+getgenv().rkickonjoin = {""} --will try to rocket crash people in this table on join (needs persons299)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nuclearpotato69/roblox-scripty-poops/main/shit-fart.lua"))()
 ```
