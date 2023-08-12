@@ -1,4 +1,4 @@
-Updated Loadstring
+Updated Loadstring for if i add new variables
 ```lua
 --[[
  ██████╗ █████╗ ██████╗ ██╗   ██╗███████╗    ███████╗██████╗ ██╗      ██████╗ ██╗████████╗
