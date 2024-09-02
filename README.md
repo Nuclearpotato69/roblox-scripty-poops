@@ -25,9 +25,9 @@ getgenv().gearbl1 = true --gear blacklist
 getgenv().nonpermban = {"BlackDelicousSoup","Yuoochi","globox7621","glxfw"} --ban will work on perm players but they can still do cmds
 getgenv().rkickonjoin = {""} --will try to rocket crash people in this table on join (needs persons299)
 getgenv().hkickonjoin = {""}
-local autoExecuteCommands = {"antir","nok","emoji","antihatlag"} --cmds that will be auto ran
+local autoExecuteCommands = {"antir","nok","emoji","antihatlag"} --cmds that will be auto ran (each cmd has a .6 wait so take that into account before running other cmds)
 local loadtime = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nuclearpotato69/roblox-scripty-poops/main/shit-fart.lua"))()
 ```
-pro tip: if you put "chat("cmd here including your prefix")" then the cmd will execute when you load the script also if you do more than one put a wait(0.6) after each one (cmds can only be executed every .6 seconds)
+
 
