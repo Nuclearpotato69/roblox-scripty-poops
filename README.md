@@ -27,4 +27,5 @@ getgenv().rkickonjoin = {""} --will try to rocket crash people in this table on 
 local loadtime = true
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nuclearpotato69/roblox-scripty-poops/main/shit-fart.lua"))()
 ```
-pro tip: if you put "chat("cmd here including your prefix")" then the cmd will execute when you load the script
+pro tip: if you put "chat("cmd here including your prefix")" then the cmd will execute when you load the script also if you do more than one put a wait(0.6) after each one (cmds can only be executed every .6 seconds)
+
